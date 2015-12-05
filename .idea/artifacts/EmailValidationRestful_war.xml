@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="EmailValidationRestful:war">
+    <output-path>$PROJECT_DIR$/out/artifacts/EmailValidationRestful_war</output-path>
+    <root id="archive" name="EmailValidationRestful_war.war">
+      <element id="artifact" artifact-name="EmailValidationRestful:war exploded" />
+    </root>
+  </artifact>
+</component>

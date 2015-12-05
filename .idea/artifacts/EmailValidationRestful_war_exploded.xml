@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="EmailValidationRestful:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/EmailValidationRestful_war_exploded</output-path>
+    <root id="root">
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="EmailValidationRestful" />
+        </element>
+      </element>
+      <element id="javaee-facet-resources" facet="EmailValidationRestful/web/Web" />
+    </root>
+  </artifact>
+</component>
